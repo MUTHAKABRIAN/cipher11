@@ -10,4 +10,7 @@ public class Cipher {
     public String getStatement() {
         return this.statement;
     }
+    public int getKey(){
+        return this.key;
+    }
 }
