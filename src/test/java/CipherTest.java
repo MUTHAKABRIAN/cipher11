@@ -36,6 +36,11 @@ public class CipherTest {
         assertEquals("abc", testCipher.getStatement());
     }
 
+    @Test
+    public void encrypt() {
+    }
 
-
+    @Test
+    public void decrypt() {
+    }
 }
